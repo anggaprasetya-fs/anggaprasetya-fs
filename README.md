@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Angga Prasetya Fikrie Saputra**.
 
-Saya seorang **Web Developer** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Web Developer** di [Minapolitan](https://www.minapolitan.com/).
 
 Saya juga memiliki sertifikasi sebagai berikut :
 * [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/RVZK1993EPD5) sejak 2021.
