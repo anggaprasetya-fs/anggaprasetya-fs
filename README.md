@@ -9,6 +9,7 @@ Saya juga memiliki sertifikasi dari [**Dicoding**](https://dicoding.com) sebagai
 * [Belajar Membuat Aplikasi Back-End untuk Pemula](https://www.dicoding.com/certificates/QLZ91D5VMP5D) sejak 2021.
 * [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/certificates/JMZVMYM83ZN9) sejak 2021.
 * [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/KEXL30D6MPG2) sejak 2021.
+* [Architecting on AWS (Membangun Arsitektur Cloud di AWS)](https://www.dicoding.com/certificates/GRX5KO90KZ0M) sejak 2021.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/angga-prasetya-fikrie-saputra-3b1137217/) ku ya.
 
