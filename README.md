@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Angga Prasetya Fikrie Saputra**.
 
-Saya seorang **Web Developer** di [Minapolitan](https://www.minapolitan.com/).
+Saya seorang **Web Developer** di [Minapolitan](https://www.minapolitan.com/) dan **Developer Bot Lelang Telegram**.
 
 Saya juga memiliki sertifikasi dari [**Dicoding**](https://dicoding.com) sebagai berikut :
 * [Belajar Dasar Pemrograman JavaScript](https://www.dicoding.com/certificates/RVZK1993EPD5) sejak 2021.
